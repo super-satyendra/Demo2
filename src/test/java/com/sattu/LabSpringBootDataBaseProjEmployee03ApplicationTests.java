@@ -1,0 +1,13 @@
+package com.sattu;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LabSpringBootDataBaseProjEmployee03ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
